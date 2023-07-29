@@ -23,7 +23,7 @@ live on the internet. My goal is to become a full stack developer.
 
 
 ## 👀 **My interests and hobbies**
-- technology 💻
+- Technology 💻
 - Reading 📚
 - Learning languages 🇫🇷 🇧🇷 🇨🇳 
 - Photography 📸
