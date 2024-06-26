@@ -16,8 +16,7 @@ Here are some ideas to get you started:
 -->
 I'm Front-End developer and UX/UI designer  
 My name is Walter and I enjoy creating things that 
-live on the internet. My goal is to become a full stack developer.
-
+live on the internet.
 ## 🌱 **I'm working with**   
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,react,nextjs,nodejs,git,figma&perline=3)](https://skillicons.dev)  
 
